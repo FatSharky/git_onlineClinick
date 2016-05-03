@@ -7,9 +7,7 @@
     <groupId>by.bntu.fitr.vlad.gapeenko.diplom</groupId>
     <artifactId>NiiOncologia</artifactId>
     <version>1.0-SNAPSHOT</version>
-
-
-
+    
 
     <properties>
         <webflow-version>2.4.1.RELEASE</webflow-version>
